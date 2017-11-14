@@ -1,23 +1,21 @@
 # MyCityWorld-Classic
-**我的城市世界**
-<br>MyCityWorld的第五个大版本号，实现多人开发的目的。
-<br>想要加入开发的可以在Programer.txt上署名(原谅我英语不好。。。)
+**我的城市世界**:
 
-<br>开发配置要求:
-<br>Windows 7 64位 / Unity3D 2017 / Visual Studio 2017或其它IDE / Github账号 / Direct 9.0
-<br>语言:
-<br>C# JavaScript C++ Java(4选一)
-<br>美工:
-<br>起码会做MC的材质包和各种渲染
+  一个新的城市建造3D游戏,我们以MineCraft为目标，开发出基本内容后，会把它添加一些模拟城市的元素.
+  
+  我们采用先进的Unity3D跨平台游戏引擎，可以跨平台开发。本游戏是开源的，目前源代码可以免费使用。
+  
+  如果你想加入开发的话,可以发邮件给[@皓子上灯台](2223625569@qq.com)
 
-寄刀片地址:江西省赣州市赣县区双龙大道26号城关小学一楼六<3>班
+**Unity3D**:
 
-=====================以上为杂谈==============================
+Unity3D是一个跨平台3D游戏引擎，本游戏采用C#和Unity3D 2017开发，请注意你的Unity版本。
 
-1.署名格式: 昵称 GitHubID 邮箱 QQ号/贴吧账号
-<br>2.反正来这里的是我认识的人，我的名字想必大家都知道了
-<br>3.官网:[天使游戏工作室](http://angelgamestudio.icoc.me)
+[Unity3D官方网站](https://unity3d.com/cn/)
 
-# AngelGameStudio
-AngelGameStudio是一个游戏工作室，负责MCW的开发
-<br>好吧，我没字了..
+# IDE和开发环境
+**IDE**:
+<br>推荐使用Visual Studio 2017，或MonoDevelop以及SharpDevelop。
+<br>推荐使用64位，32位也可以。
+<br>Unity3D版本为2017.1，升级会邮箱通知。
+<br>操作系统:Windows 7/8/10(支持Windows XP SP2),Mac也可以。
