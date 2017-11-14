@@ -16,7 +16,7 @@
 
 1.署名格式: 昵称 GitHubID 邮箱 QQ号/贴吧账号
 <br>2.反正来这里的是我认识的人，我的名字想必大家都知道了
-<br>3.官网:<url>http://angelgamestudio.icoc.me</url>
+<br>3.官网:[天使游戏工作室](http://angelgamestudio.icoc.me)
 
 # AngelGameStudio
 AngelGameStudio是一个游戏工作室，负责MCW的开发
