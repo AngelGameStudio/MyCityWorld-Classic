@@ -18,6 +18,7 @@ Unity3D是一个跨平台3D游戏引擎，本游戏采用C#和Unity3D 2017开发
 <br>推荐使用Visual Studio 2017，或MonoDevelop以及SharpDevelop。
 <br>推荐使用64位，32位也可以。
 <br>Unity3D版本为2017.1，升级会邮箱通知。
+
 **开发环境**:
 <br>操作系统:Windows 7/8/10(支持Windows XP SP2),Mac也可以。
 <br>必须安装 MS.NET 4.0 和 DirectX 9或以上。
