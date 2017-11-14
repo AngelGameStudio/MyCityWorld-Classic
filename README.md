@@ -17,4 +17,6 @@ C# JavaScript C++ Java(4选一)
 <br>2.反正来这里的是我认识的人，我的名字想必大家都知道了
 <br>3.官网:<url>http://angelgamestudio.icoc.me</url>
 
-End.
+# AngelGameStudio
+AngelGameStudio是一个游戏工作室，负责MCW的开发
+<br>好吧，我没字了..
