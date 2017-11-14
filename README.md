@@ -14,8 +14,6 @@ JiDaoPianDiZi:Six <3> class, first floor, Chengguan primary school, 26 Shuanglon
 
 =====================以上为杂谈==============================
 
-1.署名格式: 昵称 GitHubID 邮箱 QQ号/贴吧账号
-2.反正来这里的是我认识的人，我的名字想必大家都知道了
-3.官网:<url>http://angelgamestudio.icoc.me</url>
+1.署名格式: 昵称 GitHubID 邮箱 QQ号/贴吧账号                                                                                                 2.反正来这里的是我认识的人，我的名字想必大家都知道了                                                                                          3.官网:<url>http://angelgamestudio.icoc.me</url>
 
 End.
