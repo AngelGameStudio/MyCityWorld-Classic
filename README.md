@@ -1,14 +1,14 @@
 # MyCityWorld-Classic
 **我的城市世界**
-MyCityWorld的第五个大版本号，实现多人开发的目的。
-想要加入开发的可以在Programer.txt上署名(原谅我英语不好。。。)
+<br>MyCityWorld的第五个大版本号，实现多人开发的目的。
+<br>想要加入开发的可以在Programer.txt上署名(原谅我英语不好。。。)
 
-开发配置要求:
-Windows 7 64位 / Unity3D 2017 / Visual Studio 2017或其它IDE / Github账号 / Direct 9.0
-语言:
-C# JavaScript C++ Java(4选一)
-美工:
-起码会做MC的材质包和各种渲染
+<br>开发配置要求:
+<br>Windows 7 64位 / Unity3D 2017 / Visual Studio 2017或其它IDE / Github账号 / Direct 9.0
+<br>语言:
+<br>C# JavaScript C++ Java(4选一)
+<br>美工:
+<br>起码会做MC的材质包和各种渲染
 
 寄刀片地址:江西省赣州市赣县区双龙大道26号城关小学一楼六<3>班
 
