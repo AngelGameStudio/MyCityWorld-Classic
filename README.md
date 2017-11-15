@@ -15,10 +15,22 @@ Unity3D是一个跨平台3D游戏引擎，本游戏采用C#和Unity3D 2017开发
 
 # IDE和开发环境
 **IDE**:
-<br>推荐使用Visual Studio 2017，或MonoDevelop以及SharpDevelop。
+
+推荐使用Visual Studio 2017，或MonoDevelop以及SharpDevelop。
 <br>推荐使用64位，32位也可以。
 <br>Unity3D版本为2017.1，升级会邮箱通知。
 
 **开发环境**:
-<br>操作系统:Windows 7/8/10(支持Windows XP SP2),Mac也可以。
+
+操作系统:Windows 7/8/10(支持Windows XP SP2),Mac也可以。
 <br>必须安装 MS.NET 4.0 和 DirectX 9或以上。
+
+# 编译
+**编译规则**:
+
+1.下载MyCityWorld Classic，并用Unity 2017.1编译，公司名必须为AngelGameStudio
+<br>2.纯编译禁止修改代码。
+
+**下载**:
+
+如果你不想自己编译的话，可以到
