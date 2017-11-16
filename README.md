@@ -33,4 +33,4 @@ Unity3D是一个跨平台3D游戏引擎，本游戏采用C#和Unity3D 2017开发
 
 **下载**:
 
-如果你不想自己编译的话，可以到
+如果你不想自己编译的话，可以到[这里](https://github.com/MyCityWorld/MyCityWorld-Classic/tree/master/Compile/Game)下载。
