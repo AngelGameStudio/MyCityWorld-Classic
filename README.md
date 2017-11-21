@@ -7,6 +7,10 @@
   
   如果你想加入开发的话,可以发邮件给2223625569@qq.com,目前的开发人员:[开发人员墙](/Developers.md)
 
+**紧急情况！**
+
+MyCityWorld的最新版(B19.8)记得在xxxx_Data下创建Screenshot文件夹，否则会截图功能会失效。。。
+
 **Unity3D**:
 
 Unity3D是一个跨平台3D游戏引擎，本游戏采用C#和Unity3D 2017开发，请注意你的Unity版本。
