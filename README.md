@@ -6,7 +6,7 @@ MyCityWorld是一个沙盒游戏，你可以用各种方块搭建自己的城市
 
 如果你想和我们一起开发的话，你可以发邮件到2223625569@qq.com,也可以可以到[这里](/Developers.md)署名
 
-**编辑器**  
+**编辑器**   
 我们目前使用Unity3D 2017.1,和.NET 3.5开发，IDE为Visual Studio.
 
 [Unity3D](https://www.unity3d.com/cn)  
