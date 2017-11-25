@@ -1,7 +1,6 @@
 # 更新日志
 ## New Classic
-注:一律使用新命名法  
-#### **Classic V0.1.4-Preview[Build19.9]-2017/11/25:**
+### **Classic V0.1.4-Preview[Build19.9]-2017/11/25:**
 **加入:**    
   1.开发者成员方块(WHY,ZHQ,ZMH)     
   <br>2.快照名系统更新,如:20b2517a      
